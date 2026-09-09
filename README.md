@@ -22,14 +22,14 @@ This proposal synthesizes themes from the following literature on enzymatic plas
 
 ## License
 
-See [`LICENSE`](./LICENSE) (MIT, unless you'd rather use something more academic-appropriate — see note below).
+See (./LICENSE) (MIT, unless you'd rather use something more academic-appropriate — see note below).
 
 ## Citation
 
 If you build on this, please cite it as a preprint/proposal (not a completed study). Suggested format:
 
 ```
-[Your Name]. (2026). Rational Design of a Hybrid PETase–Cutinase–Biosurfactant-Binding
+Bhavana Yarlagadda. (2026). Rational Design of a Hybrid PETase–Cutinase–Biosurfactant-Binding
 Fusion Enzyme (PETCase-X1) for Enhanced Polyester Biodegradation: A Research Proposal.
-GitHub. https://github.com/<your-username>/<repo-name>
+GitHub. (https://github.com/bhavanayarlagadda979/petcase-x1-fusion-enzyme-proposal)
 ```
